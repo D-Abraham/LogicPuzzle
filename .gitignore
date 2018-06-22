@@ -1,5 +1,6 @@
-*.class
-*.iws
-*.ipr
-*.iml
+.gitignore
 out
+.idea
+LogicPuzzle.iws
+LogicPuzzle.ipr
+LogicPuzzle.iml
