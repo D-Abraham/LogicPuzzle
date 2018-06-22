@@ -1,0 +1,60 @@
+/xbackstory:
+		Backstory And Goal
+  There are series of mountains in Transilvania which soar 15000 feet or higher into
+ the sky.These are called the "Scary mountains". Using only the clues below, match 
+ each mountain to its elevation (in feet), and determine who was the first to climb 
+ each mountain and when. 
+  Remember, as with all grid-based logic puzzles, no option in any category will 
+ ever be used more than once. Click one time for "X" as a "false" answer, and click
+ another time for "O" as a "True" answer.
+ If you get stuck or run into problems, try the "Clear 
+ Errors" button to remove any mistakes that might be present on the grid, or the
+ "Hint" button to see the next logical step in the puzzle. It is possible to get 
+ up to 3 hints throughout the game. 
+
+
+/xhints:
+HintText: Clue #4 is explicitly true. The correct answer is marked for you.
+HintLocation: l, 0, 2
+HintText: Clue #2 and Clue #3 lead to explicitly true answer. Mt Tampa is 14,600 feet tall. The correct answer is marked for you.
+HintLocation: l, 3, 3
+HintText: Clue #2 and Clue #3 lead to explicitly true answer. Mt Negoiu is 14,210 feet tall. The correct answer is marked for you.
+HintLocation: l, 1, 0
+HintText: Clue #1 leads to explicitly true answer. Mt Negoiu that is 14,210 feet tall is first summited by Ion Suruceanu. The correct answer is marked for you.
+HintLocation: r, 1, 0
+/xclues:
+		Clues
+The mountain that is 14,210 feet tall is either the peak first summited by Ion Suruceanu or Mt. Tampa
+The pick that is 14,340 ft tall, Mt.Negoiu and Mt. Tampa are 3 different mountains.
+Mt.Tampa is taller than Mt. Negoiu.
+Mt. Moldoveanu is 14, 470 ft tall.
+The mountain first summited by V. Popa is 260 ft shorter then the mountain first summited by D. Spataru.
+
+/xrightboxsolution:
+1-2-3-0
+
+/xliftboxsolution:
+1-2-0-3
+
+/xbottomboxsolution:
+3-1-2-0
+
+/xleftlabel:
+14,210
+14,340
+14,470
+14,600
+
+/xlefttoplabel:
+Mt.Moldoveanu
+Mt. Negoiu
+Mt. Pietrosu
+Mt. Tampa
+
+/xbottomlabel:
+Dan Spataru
+Ion Suruceanu
+Vasile Popa
+Gita Munteanu
+
+/xEndOfFile
